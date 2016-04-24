@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hojberg/mastering-react.git"
+    "url": "https://github.com/anthonybrown/storekeeper-react-app.git"
   },
-  "author": "Simon Hoejberg",
+  "author": "Tony Brown",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hojberg/mastering-react/issues"
+    "url": "https://github.com/anthonybrown/storekeeper-react-app/issues"
   },
-  "homepage": "https://github.com/hojberg/mastering-react",
+  "homepage": "https://github.com/anthonybrown/storekeeper-react-app",
   "dependencies": {
     "moment": "^2.10.3",
     "numeral": "^1.5.3",
